@@ -12,3 +12,5 @@ Klíčové funkce:
  - Robustní zpracování chyb a uživatelská oznámení.
  - Integrace s externími odkazy ke stažení herních souborů.
  - Spuštění vybrané verze hry přímo ze spouštěče.
+
+<img src="https://i.ibb.co/wy9RnJ3/game-Laucher.png" alt="game-Laucher" border="0">
